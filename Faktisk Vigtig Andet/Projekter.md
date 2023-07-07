@@ -1,4 +1,4 @@
-Her er en liste af projekter folk fra [[Praktisk info/Primero Palæet]] har lavet:
+Her er en liste af projekter folk fra Primero Palæet har lavet:
 - https://github.com/Venu2HD/PiratGanget/blob/main/Projekter/Monkey.md
 - https://github.com/Venu2HD/PiratGanget/blob/main/Projekter/Cool%20circle%20lines.md
 - https://github.com/Venu2HD/PiratGanget/blob/main/Projekter/Alien%20X3S%20Simulator.md
