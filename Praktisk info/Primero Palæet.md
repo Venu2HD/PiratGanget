@@ -1,8 +1,9 @@
 #primero_palæet #nofish 
 
-Primero Palæet er Navnet for folket i hus nr. 1, på [[Faktisk Vigtig Andet/Coding Pirates Summer Camp 2023]].
+Primero Palæet er Navnet for folket i hus nr. 1, på campen.
 
-Du kan se medlemmer her: ![[Praktisk info/Medlemmer]]
-Vores Motto er: ![[Praktisk info/Motto]]
-Vores [[Praktisk info/Våbenskjold]] er: 
-![[Praktisk info/Våbenskjold.png]]
+Medlemmer: https://github.com/Venu2HD/PiratGanget/blob/main/Praktisk%20info/Medlemmer.md
+
+Motto: https://github.com/Venu2HD/PiratGanget/blob/main/Praktisk%20info/Motto.md
+
+Våbenskjolde: https://github.com/Venu2HD/PiratGanget/blob/main/Praktisk%20info/V%C3%A5benskjold.md
