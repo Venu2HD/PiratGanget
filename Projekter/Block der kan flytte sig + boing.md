@@ -1,1 +1,1 @@
-[[Sommer Camp 2023 hold 1/Faktisk Vigtig Andet/Projekter]]av]]![[pycrAngger 1.zip]]
+Der var ikke nogen zip fil til projektet,<br>hvem end der har lavet det skal uploade en fil til "Andre Filer" folderen, og sætte linket her.
