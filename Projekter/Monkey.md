@@ -1,3 +1,4 @@
 #nofish #blender #william 
-![[Sommer Camp 2023 hold 1/Billeder/monkey.png]]
+
+Der er igen nogen der har slettet filen,<br>hvis du har en kopi må du meget gerne uploade den til "Billeder", og linke den her. <br>
 Her er en abe jeg har lavet i blender!
