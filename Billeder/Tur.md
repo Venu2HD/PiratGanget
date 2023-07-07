@@ -1,6 +1,5 @@
 #nofish 
-Da [[Praktisk info/Primero Palæet]] var på tur, bl.a. mandag aften har de taget nogle billeder:
-![[Billeder/Får.jpg]]
-![[Billeder/Får_2.jpeg]]
 
+Da Primero Palæet var på tur, bl.a. mandag aften har de taget nogle billeder:
 
+Der er nogen der slettede billederne... :(
