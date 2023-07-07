@@ -9,8 +9,6 @@ https://github.com/Venu2HD/PiratGanget/blob/main/Billeder/cool%20circle%20lines%
 her ganger man med 1.5555555 
 https://github.com/Venu2HD/PiratGanget/blob/main/Billeder/cool%20circle%20lines%20ting/multiplier%201.155555%20times%20circle%201000%20points%201%20alpha.png
 
-her ganger jeg med 2 igen, men denne gang med farver : )
-
-Jeg kunne sku ikke finde den med farver, sry
-
+her ganger jeg med 2 igen, men denne gang med farver :) <br>
+Jeg kunne sku ikke finde den med farver, sry <br>
 -Magnus
